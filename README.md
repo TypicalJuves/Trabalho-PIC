@@ -1,6 +1,6 @@
 # Trabalho-PIC
-## Robô aspirador
-O projeto consiste em um robô aspirador autônomo, controlado por Arduino, que
+## Robô Autônomo
+O projeto consiste em um robô autônomo, controlado por Arduino, que
 deverá percorrer uma determinada área e retornar de volta para o ponto de partida e
 também será capaz de desviar de obstáculos fazendo para isso uso de um sensor
 ultrassônico.

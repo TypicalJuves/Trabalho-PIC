@@ -1,10 +1,10 @@
 # Trabalho-PIC
-# Robô aspirador
+## Robô aspirador
 O projeto consiste em um robô aspirador autônomo, controlado por Arduino, que
 deverá percorrer uma determinada área e retornar de volta para o ponto de partida e
 também será capaz de desviar de obstáculos fazendo para isso uso de um sensor
 ultrassônico.
-# Lista de componentes:
+## Lista de componentes:
 - 1 ponte h
 - 2 motores dc com rodas
 - 1 arduino uno
@@ -17,7 +17,7 @@ ultrassônico.
 - 1 protoboard
 - Jumpers
 
-# Descrição:
+## Descrição:
 O robô será composto por um conjunto de componentes eletrônicos interligados para o
 seu funcionamento. Um sensor ultrassônico estará acoplado a um servomotor, ambos
 
@@ -31,11 +31,11 @@ realizarem os giros necessários. Juntos, esses componentes permitirão que o ro
 movimente de forma autônoma, detectando obstáculos, evitando colisões e realizando
 trajetórias programadas.
 
-# Cronograma:
+## Cronograma:
 - Conclusão do robô: 25/02/2025
 - Conclusão do vídeo e documentação para Mostra PIC: 05/03/2025
 
-# Membros do grupo:
+## Membros do grupo:
 - Pedro Henrique Peixoto da Silva
 - Heron Garcia Lodi e Silva
 - Wesley Vieira de Moraes

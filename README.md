@@ -1,5 +1,5 @@
 # Trabalho-PIC
-## Robô Autônomo
+## Robô Obstáculo
 O projeto consiste em um robô autônomo, controlado por Arduino, que
 deverá percorrer uma determinada área e retornar de volta para o ponto de partida e
 também será capaz de desviar de obstáculos fazendo para isso uso de um sensor

@@ -42,7 +42,7 @@ Responsavel por cuidar da rotação do servo motor
 - <HCSR04.h>
 Responsavel por cuidar da captura da distancia e do calculo dela
 
-##Tópicos de atenção / Dificuldades apresentadas no trabalho:
+## Tópicos de atenção / Dificuldades apresentadas no trabalho:
 - Incapacidade de sustentação dos motores usando as pilhas
 - Mal contato dos jumpers com o sensor, o que impede o funcionamento dos motores
 - Cuidado com o posicionamento dos jumpers conectando os motores a ponte h, pode ocorrer a inversão de direção das rodas

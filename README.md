@@ -32,6 +32,9 @@ trajetórias programadas.
 ## Resumo:
 Robô autônomo controlado por Arduino Uno, equipado com sensor ultrassônico em um servomotor para detectar obstáculos e medir distâncias. Uma ponte H, alimentada por bateria de 9V, controla motores DC, permitindo direcionar o robô. Integração dos componentes garante movimento autônomo, detecção de obstáculos e prevenção de colisões.
 
+## Esquemático do projeto:
+![Esquematico do projeto](Projeto.png)
+
 ## Bibliotecas usadas:
 - <AFMotor.h>
 Responsavel por cuidar dos motores
